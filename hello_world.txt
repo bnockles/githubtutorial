@@ -1,2 +1,2 @@
 This is my first file in my project!
-I added text on the remote branch!
+I deleted text on the remote branch!
